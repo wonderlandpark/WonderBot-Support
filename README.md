@@ -8,5 +8,5 @@ This is repository of Wonder_Bot Rules, ToS and More.
 | Wonder_Bot ToS | Terms of Service for Wonder_Bot | [TOS.MD](tos.md)
 
 
-# Wonder_Bot Support
+# Wonder_Bot Support Invite
 [![Discord Embed](https://discordapp.com/widget?id=470028725287780352&theme=dark)](http:discord.gg/PR7WDfq)
