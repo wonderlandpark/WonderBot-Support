@@ -1,3 +1,7 @@
+# Not Using
+
+Please use [here](https://github.com/callistoteam/rules-and-tos)
+
 # Wonder_Bot Support
 
 This is repository of Wonder_Bot Rules, ToS and More.
